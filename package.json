@@ -1,0 +1,18 @@
+{
+  "name": "dirtable",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to log a table of the files in a directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "table": "^6.8.1"
+  },
+  "bin": {
+    "table": "./index.js"
+  }
+}
